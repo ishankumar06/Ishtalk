@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* for not displaying scroll bar  */
+::-webkit-scrollbar{
+    display: none;
+}
+
